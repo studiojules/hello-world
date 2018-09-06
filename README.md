@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-I'm a graphic designer and want to learn more about webdesign. 
+I'm a graphic designer who wants to learn more about webdesign.
